@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Meteorite landings</string>
+    <string name="no_meteorites">No meteorites</string>
+    <string name="sime_meteorite_name">Some Meteorite Name</string>
+    <string name="some_meteorite_name">some meteorite name</string>
+    <string name="load_meteorite_list">Load meteorite list</string>
+    <string name="some_error_happened_upon_loading_the_list">Some error happened upon loading the list</string>
+    <string name="fall_text">fall_text</string>
+    <string name="some_date_here">some date here</string>
+</resources>
